@@ -7,6 +7,7 @@ import Rarity from './artifacts/contracts/Rarity.sol/Rarity.json'
 //const rarityAddress = "" //mainnet
 const rarityAddress = "0x638A246F0Ec8883eF68280293FFE8Cfbabe61B44" // localhost
 //const networkID = 3 //ropsten
+//const networkID = 1 //mainnet
 const networkID = 1337 //localhost
 let provider 
 let signer

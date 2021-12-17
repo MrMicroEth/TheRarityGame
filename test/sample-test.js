@@ -22,7 +22,7 @@ beforeEach(async function() {
     await setPattern.wait();
 }*/ 
 
-  // Play the Game!! Submit 5 patterns, 2 will be elimanated if our limit is at 3
+  // Play the Game!! Submit 5 patterns, 2 will be elimanated if our limit is at 3 
   let setPattern = await rarity.connect(accounts[0]).submitPattern( [1,0,1,0], overrides);
   setPattern = await rarity.connect(accounts[1]).submitPattern( [0,1,0,1], overrides);
   setPattern = await rarity.connect(accounts[2]).submitPattern( [1,1,1,1], overrides);

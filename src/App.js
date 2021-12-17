@@ -4,7 +4,7 @@ import { ethers } from 'ethers'
 import Rarity from './artifacts/contracts/Rarity.sol/Rarity.json'
 
 // Update with the contract address logged out to the CLI when it was deployed 
-//const rarityAddress = "" //ropsten
+//const rarityAddress = "" //mainnet
 const rarityAddress = "0x638A246F0Ec8883eF68280293FFE8Cfbabe61B44" // localhost
 //const networkID = 3 //ropsten
 const networkID = 1337 //localhost

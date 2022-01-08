@@ -5,7 +5,7 @@ import Rarity from './artifacts/contracts/Rarity.sol/Rarity.json'
 
 // Update with the contract address logged out to the CLI when it was deployed 
 //const rarityAddress = "" //mainnet
-const rarityAddress = "0x638A246F0Ec8883eF68280293FFE8Cfbabe61B44" // localhost
+const rarityAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3" // localhost
 //const networkID = 3 //ropsten
 //const networkID = 1 //mainnet
 const networkID = 1337 //localhost

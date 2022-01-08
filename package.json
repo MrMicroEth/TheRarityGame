@@ -1,10 +1,10 @@
 {
   "name": "TheRarityGame",
-  "homepage": "https://github.com/MrMicroEth/TheRarityGame",
+  "homepage": "https://MrMicroEth.github.io/TheRarityGame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -12,7 +12,7 @@
     "@usedapp/core": "^0.5.4",
     "chai": "^4.3.4",
     "ethereum-waffle": "^3.4.0",
-    "ethers": "^5.4.7",
+    "ethers": "^5.5.2",
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -47,6 +47,6 @@
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^4.3.3",
-    "hardhat": "^2.6.8"
+    "hardhat": "^2.8.1"
   }
 }

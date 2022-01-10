@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheRarityGame/static/css/main.1345b646.chunk.css",
+    "main.js": "/TheRarityGame/static/js/main.605cf6dc.chunk.js",
+    "main.js.map": "/TheRarityGame/static/js/main.605cf6dc.chunk.js.map",
+    "runtime-main.js": "/TheRarityGame/static/js/runtime-main.31122e19.js",
+    "runtime-main.js.map": "/TheRarityGame/static/js/runtime-main.31122e19.js.map",
+    "static/js/2.f731a2f1.chunk.js": "/TheRarityGame/static/js/2.f731a2f1.chunk.js",
+    "static/js/2.f731a2f1.chunk.js.map": "/TheRarityGame/static/js/2.f731a2f1.chunk.js.map",
+    "static/js/3.d171168a.chunk.js": "/TheRarityGame/static/js/3.d171168a.chunk.js",
+    "static/js/3.d171168a.chunk.js.map": "/TheRarityGame/static/js/3.d171168a.chunk.js.map",
+    "index.html": "/TheRarityGame/index.html",
+    "static/css/main.1345b646.chunk.css.map": "/TheRarityGame/static/css/main.1345b646.chunk.css.map",
+    "static/js/2.f731a2f1.chunk.js.LICENSE.txt": "/TheRarityGame/static/js/2.f731a2f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31122e19.js",
+    "static/js/2.f731a2f1.chunk.js",
+    "static/css/main.1345b646.chunk.css",
+    "static/js/main.605cf6dc.chunk.js"
+  ]
+}
